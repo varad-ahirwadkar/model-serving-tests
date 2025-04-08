@@ -48,3 +48,4 @@ microsoft/phi-4
 mistralai/Pixtral-12B-Base-2409
 ibm-granite/granite-3.1-8b-instruct
 mistralai/Mistral-7B-Instruct-v0.3 
+tinyllama-1.1b-chat-v1.0
