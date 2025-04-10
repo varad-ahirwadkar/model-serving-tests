@@ -46,3 +46,4 @@ ministral/Ministral-3b-instruct
 mistralai/Ministral-8B-Instruct-2410
 microsoft/phi-4
 mistralai/Pixtral-12B-Base-2409
+ibm-granite/granite-3.1-8b-instruct
